@@ -20,6 +20,18 @@ class App extends Component {
             Learn React.js
           </a>
         </header>
+
+        <h1>
+          <a href="https://medium.freecodecamp.org/every-time-you-build-a-to-do-list-app-a-puppy-dies-505b54637a5d">
+            Every time you build a to-do list app,
+            a puppy <span role="img" aria-label="puppy">🐕</span> dies
+            <span role="img" aria-label="sadface">😢</span>
+          </a>
+        </h1>
+        <img src="https://cdn-images-1.medium.com/max/1600/1*g6c8GzN-fkt4wi1liJGdhA.jpeg" alt="tiger died" />
+
+        <h2>Is that even possible?</h2>
+
       </div>
     );
   }
